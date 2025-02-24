@@ -19,8 +19,12 @@ h1 {
 	color: white;
 	font-size: 80px;
 	padding: 15px;
-	font-family: Arial;
+	font-family: Still Time;
 	text-transform: lowercase;
+}
+@font-face {
+	font-family: Still Time;
+	src: url(./fonts/StillTime.otf);
 }
 h3 {
 	color: white;
@@ -45,8 +49,7 @@ a:hover {
 }
 .title {
 	font-style: oblique;
-	font-variant: small-caps;
-	letter-spacing: 2px;
+	letter-spacing: 11px;
 	text-shadow: 1px 1px 2px black, 0 0 20px rgb(19, 19, 132), 0 0 3px darkblue;
 }
 
