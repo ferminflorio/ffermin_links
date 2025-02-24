@@ -64,20 +64,23 @@ a:hover {
 	margin: 380px 325px 0px 325px;
 	border-radius: 25px;
 }
+.spotify_container {
+	align-self: center;
+}
 .spotify_logo {
-	height: 100px;
+	height: 60px;
 }
 .spotify_logo:hover {
 	opacity: 0.5;
 }
 .yt_logo {
-	height: 100px;
+	height: 70px;
 }
 .yt_logo:hover {
 	opacity: 0.5;
 }
 .ig_logo {
-	height: 70px;
+	height: 50px;
 }
 .ig_logo:hover {
 	opacity: 0.5;
@@ -103,7 +106,7 @@ a:hover {
 .contact_container {
 	display: flex;
 	justify-content: center;
-	margin-top: 30px;
+	margin-top: 55px;
 }
 .email_logo {
 	height: 50px;
@@ -128,7 +131,7 @@ a:hover {
 		height: 70px;
 	}
 	.ig_logo {
-		height: 50px;
+		height: 60px;
 	}
 	.contact_container {
 		margin-top: 100px;
